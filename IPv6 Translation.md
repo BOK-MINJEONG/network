@@ -51,7 +51,8 @@
 
 
 ### DNS64 + NAT64
-![](/세미나/img/flow.png)
+<img width="757" height="406" alt="image" src="https://github.com/user-attachments/assets/36772638-a097-4c28-b9f6-08c2d847a8b7" />
+
 
 ## 6.	DNS64: 가상 AAAA 레코드 합성 원리
   1. 원본 레코드 확인 (IPv4-only 판별)
